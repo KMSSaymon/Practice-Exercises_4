@@ -43,4 +43,3 @@ public class NumberOperations {
         scanner.close();
     }
 }
-
