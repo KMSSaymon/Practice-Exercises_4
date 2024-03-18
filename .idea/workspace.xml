@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="40095f68-4a4b-4c84-90cf-7a972fbd961b" name="Changes" comment="E4 - 5 problem" />
+    <list default="true" id="40095f68-4a4b-4c84-90cf-7a972fbd961b" name="Changes" comment="E4 - 7 problem" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,7 +20,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="NumberOperations2" />
+        <entry key="$PROJECT_DIR$" value="LenghtConverter" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -45,7 +45,7 @@
     "Application.Powers.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "LenghtConverter",
+    "git-widget-placeholder": "RectangleProperties",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
@@ -121,7 +121,23 @@
       <option name="project" value="LOCAL" />
       <updated>1710733952380</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="E4 - 6 problem">
+      <option name="closed" value="true" />
+      <created>1710734202874</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1710734202874</updated>
+    </task>
+    <task id="LOCAL-00008" summary="E4 - 7 problem">
+      <option name="closed" value="true" />
+      <created>1710734350516</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1710734350516</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -130,6 +146,8 @@
     <MESSAGE value="E4 - 3 problem" />
     <MESSAGE value="E4 - 4 problem" />
     <MESSAGE value="E4 - 5 problem" />
-    <option name="LAST_COMMIT_MESSAGE" value="E4 - 5 problem" />
+    <MESSAGE value="E4 - 6 problem" />
+    <MESSAGE value="E4 - 7 problem" />
+    <option name="LAST_COMMIT_MESSAGE" value="E4 - 7 problem" />
   </component>
 </project>
